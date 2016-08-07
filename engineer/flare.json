@@ -1,0 +1,39 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "data",
+   "children": [
+    {"name": "man", "size": 116},
+    {"name": "people", "size": 106},
+    {"name": "business", "size": 92},
+    {"name": "adult", "size": 89},
+    {"name": "industry", "size": 85},
+    {"name": "technology", "size": 64},
+    {"name": "helmet", "size": 55},
+    {"name": "one", "size": 53},
+    {"name": "safety", "size": 50},
+    {"name": "expression", "size": 49},
+    {"name": "indoors", "size": 42},
+    {"name": "wear", "size": 40},
+    {"name": "portrait", "size": 36},
+    {"name": "outdoors", "size": 36},
+    {"name": "woman", "size": 33},
+    {"name": "equipment", "size": 30},
+    {"name": "architect", "size": 27},
+    {"name": "work", "size": 26},
+    {"name": "illustration", "size": 26},
+    {"name": "computer", "size": 26},
+    {"name": "grinder", "size": 24},
+    {"name": "hardhat", "size": 24},
+    {"name": "lid", "size": 23},
+    {"name": "vehicle", "size": 22},
+    {"name": "sketch", "size": 20},
+    {"name": "production", "size": 20},
+    {"name": "security", "size": 20},
+    {"name": "blueprint", "size": 20},
+    {"name": "no person", "size": 20}
+   ]
+  }
+ ]
+}
