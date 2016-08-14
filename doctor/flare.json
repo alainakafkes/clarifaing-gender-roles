@@ -1,0 +1,38 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "data",
+   "children": [
+    {"name": "doctor", "size": 121},
+    {"name": "man", "size": 114},
+    {"name": "healthcare", "size": 108},
+    {"name": "medicine", "size": 102},
+    {"name": "hospital", "size": 96},
+    {"name": "health", "size": 84},
+    {"name": "stethoscope", "size": 84},
+    {"name": "woman", "size": 73},
+    {"name": "uniform", "size": 73},
+    {"name": "adult", "size": 69},
+    {"name": "people", "size": 69},
+    {"name": "isolated", "size": 65},
+    {"name": "medical", "size": 65},
+    {"name": "friendly", "size": 63},
+    {"name": "diagnosis", "size": 63},
+    {"name": "professional", "size": 59},
+    {"name": "clinic", "size": 58},
+    {"name": "indoors", "size": 58},
+    {"name": "aid", "size": 52},
+    {"name": "practitioner", "size": 46},
+    {"name": "nurse", "size": 42},
+    {"name": "business", "size": 40},
+    {"name": "emergency", "size": 39},
+    {"name": "looking", "size": 36},
+    {"name": "one", "size": 32},
+    {"name": "medical practitioner", "size": 32},
+    {"name": "portrait", "size": 32},
+    {"name": "success", "size": 31}
+   ]
+  }
+ ]
+}
