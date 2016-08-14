@@ -8,12 +8,20 @@ I coded a Python script that uses the Bing Cognitive Search API to find the firs
 
 This code has been abstracted for use with any search term, so feel free to clone/star this repository to try it out!
 
-###First Results & Thoughts
+###Quick Caveat
+Machine learning and artificial intelligence technologies *cannot* define someone's gender identity. The results that follow give the Clarifai API's best guesses of who is seen each image, which is inherently biased by training data. For more on AI bias, check out [this article from "Model View Culture"](https://modelviewculture.com/pieces/the-hidden-dangers-of-ai-for-queer-and-trans-people).
+
+###First Results: "Engineer"
 In the first 150 Bing Image Search results for the term "engineer," the Clarifai API counts 116 images tagged with "man" versus 33 tagged with "woman." "Man" was also the most frequent tag. Yikes. 
 
 ![Who is an engineer?](https://raw.githubusercontent.com/alainakafkes/clarifaing-gender-roles/master/engineer/engineerviz.png)
 
 Keep in mind that this is what any Internet user sees when they search Bing for "engineer" -- mostly men. There is an evident lack of diversity in many engineering fields, so I believe that search results should strive to be gender-balanced to show girls & young women that they can and should exist in these spaces.
+
+###"Doctor"
+"Man" (114 tags) still outnumber "woman" (73 tags), but to a much lesser extent. Unfortunately, even the tag "stethoscope" appears more than "woman." Other notable, frequent Clarifai tags include "isolated" and "fine-looking." 😉
+
+![Who is a doctor?](https://raw.githubusercontent.com/alainakafkes/clarifaing-gender-roles/master/doctor/doctorviz.png)
 
 ###How To Contribute
 Create a pull request! '''bingscraper.py''' can be run in any Python 2 interpreter, whereas '''accumulator.py''' needs to be run in a Python 3 interpreter after [creating your first Clarifai app](https://developer.clarifai.com/) and by following the guidelines found [here](https://github.com/Clarifai/clarifai-python).
