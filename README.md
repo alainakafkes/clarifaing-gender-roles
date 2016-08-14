@@ -16,6 +16,6 @@ In the first 150 Bing Image Search results for the term "engineer," the Clarifai
 Keep in mind that this is what any Internet user sees when they search Bing for "engineer" -- mostly men. There is an evident lack of diversity in many engineering fields, so I believe that search results should strive to be gender-balanced to show girls & young women that they can and should exist in these spaces.
 
 ###How To Contribute
-Create a pull request! '''bingscraper.py''' can be run in any Python 2 interpreter, whereas '''accumulator.py''' needs to be run in a Python 3 interpreter using the guidelines found [here](https://github.com/Clarifai/clarifai-python).
+Create a pull request! '''bingscraper.py''' can be run in any Python 2 interpreter, whereas '''accumulator.py''' needs to be run in a Python 3 interpreter after [creating your first Clarifai app](https://developer.clarifai.com/) and by following the guidelines found [here](https://github.com/Clarifai/clarifai-python).
 
 **Comments? Questions? Suggestions for terms to explore? Feel free to share them with me.**
