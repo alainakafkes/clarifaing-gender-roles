@@ -24,6 +24,6 @@ Keep in mind that this is what any Internet user sees when they search Bing for 
 ![Who is a doctor?](https://raw.githubusercontent.com/alainakafkes/clarifaing-gender-roles/master/doctor/doctorviz.png)
 
 ###How To Contribute
-Create a pull request! '''bingscraper.py''' can be run in any Python 2 interpreter, whereas '''accumulator.py''' needs to be run in a Python 3 interpreter after [creating your first Clarifai app](https://developer.clarifai.com/) and by following the guidelines found [here](https://github.com/Clarifai/clarifai-python).
+Create a pull request! ```bingscraper.py``` can be run in any Python 2 interpreter, whereas ```accumulator.py``` needs to be run in a Python 3 interpreter after [creating your first Clarifai app](https://developer.clarifai.com/) and by following the guidelines found [here](https://github.com/Clarifai/clarifai-python).
 
 **Comments? Questions? Suggestions for terms to explore? Feel free to share them with me.**
